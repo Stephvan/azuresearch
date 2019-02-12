@@ -1,0 +1,8 @@
+Summary of Instructions for creating your search service
+
+1. Create a resouce group
+2. Create a storage account that will act as the datasource (the data that will be queried for your search by users) in the resource group.
+3. Create your search service in the same storage account.
+4. Copy details such as the name of storage account, search service, keys etc
+5. Upload sample data to the new blob storage using microsoft storage explorer or any other available means.
+6.
